@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "builder": "*"
+        "builder": "*",
+        "minecraftflowers": "workspace:64d2697e-58d9-4d29-8996-6a14cc4711bd"
     },
     "files": [
         "README.md",
@@ -14,5 +15,5 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "installedVersion": "workspace:64d2697e-58d9-4d29-8996-6a14cc4711bd"
 }
